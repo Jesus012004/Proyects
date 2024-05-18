@@ -1,7 +1,10 @@
 Este es un programa que calcula la suma resta y muultiplicacion de una matriz de n filas por n columnas
  siempre y cuando se respeten las reglas en la suma y resta ademas haya la transpuesta de la matriz y la multiplica por un escalar
-todas las funciones matematicas estan en la bibilioteca Matrix.h  para el que quiera usarlas 
+todas las funciones matematicas estan en la bibilioteca Matrix.h  para el que quiera usarlas en la universidad o para resolver algun problema en una x situacion. 
 
 Aparte tambien subi mi primer proyecto de programacion en la universidad que es Proyecto IPI 1.0.1
-el el se puede rewalizar varias operaciones en el stock de un almacen como ingresarle nuevos datos 
-buscar el mas alto 
+el el se puede rewalizar varias operaciones en el stock de un almacen como: 
+ingresarle nuevos datos 
+Calcular el total de productos en stock por año
+Identificar el mes con mayor cantidad de productos en stock
+Calcular el promedio de productos en stock en un intervalo de años
