@@ -1,0 +1,3 @@
+Este es un programa que calcula la suma resta y muultiplicacion de una matriz de n filas por n columnas
+ siempre y cuando se respeten las reglas en la suma y resta ademas haya la transpuesta de la matriz y la multiplica por un escalar
+todas las funciones matematicas estan en la bibilioteca Matrix.h  para el que quiera usarlas 
